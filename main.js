@@ -2,7 +2,7 @@ var mouseEvent = "";
 var lastPositionOfX,lastPositionOfY;
 var canvas = document.getElementById("myCanvas");
 ctx=canvas.getContext('2d');
-color = "black";
+color = "red";
 widthOfLine = 2;
 var screenWidth = screen.width;
 var newWidth = screen.width - 70;
